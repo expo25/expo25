@@ -1,4 +1,6 @@
-# 💫 About Me:
+<h1 align="center">
+💫 About Me:
+</h1>
 •🙂 Hi! I am a Software Engineer who works professionally in the Financial Service Industry. <br>•🔭 In my personal time, I have been working on a Spotify Clone App, Web Dashboards for Discord Bots & A Predictive Modeling Commercial Real Estate Application & Digital Wallet, prioritizing AI, ML & Blockchain technology.  <br>•👯 I am looking to collaborate on projects involving building Discord Bots utilizing both discord.js and discord.py libraries.<br>•🔰 I am passionate about AI, ML, Data Science, Web Development, Finance & Blockchain. <br>•🌱 I am currently learning how to build out different test automation frameworks with C#.<br>•💬 Ask me about how I became interested in software development. The answer may surprise you.<br>•⚡ Let's connect on LinkedIn!
 
 
