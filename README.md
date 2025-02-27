@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=What's Up!!+✌🏽;My+name+is+DOMINICK!🙂;But+you+can+call+me+Expo!&center=true&size=30">
+    <img src="https://readme-typing-svg.demolab.com/?lines=What's+Up!✌🏽;My+name+is+Dominick!🙂;But+you+can+call+call+me+Expo🔹!;&font=Fira%20Code&center=true&width=425&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
   </a>
 </h1>
 
