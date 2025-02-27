@@ -4,9 +4,14 @@
   </a>
 </h1>
 
-## ✨ About Me
-•🙂 Hi! I am a Software Engineer who works professionally in the Financial Service Industry. <br>•🔭 In my personal time, I have been working on a Spotify Clone App, Web Dashboards for Discord Bots & A Predictive Modeling Commercial Real Estate Application & Digital Wallet, prioritizing AI, ML & Blockchain technology.  <br>•👯 I am looking to collaborate on projects involving building Discord Bots utilizing both discord.js and discord.py libraries.<br>•🔰 I am passionate about AI, ML, Data Science, Web Development, Finance & Blockchain. <br>•🌱 I am currently learning how to build out different test automation frameworks with C#.<br>•💬 Ask me about how I became interested in software development. The answer may surprise you.<br>•⚡ Let's connect on LinkedIn!
-
+### ✨ About Me
+🔹 I have been working professionally as a Software Developer for about 5 years. <br>
+🔹 When I'm bored, I'll work on my Spotify Clone App, Discord Bots & a new blog that I soon plan to host on my personal website.<br>
+🔹 I am passionate about AI, Test Automation, Data Science, Web Development, Finance & Blockchain. <br>
+🔹 I am currently helping companies build out different test automation frameworks using Cypress & Playwright.<br>
+🔹 I am also currently experimenting with TypeScript.<br>
+🔹⚡ Fun fact: I actually built an AI chatbot before AI before ChatGPT was even "A thing." I called it [JARVIS](), similar to Tony Stark's assistant.<br>
+🔹 👇🏽 Looking to collaborate? You can reach me below 👇🏽
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dominicksidari/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/dom_sidari25) 
