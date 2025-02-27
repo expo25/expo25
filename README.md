@@ -12,8 +12,9 @@
 🔹 I am passionate about AI, Test Automation, Data Science, Web Development, Finance & Blockchain. <br>
 🔹 I am currently helping companies build out different test automation frameworks using Cypress & Playwright.<br>
 🔹 I am also currently experimenting with TypeScript.<br>
-🔹⚡ Fun fact: I actually built an AI chatbot before AI before ChatGPT was even "A thing." I called it [JARVIS](), similar to Tony Stark's assistant.<br>
-🔹 👇🏽 Looking to collaborate? You can reach me below 👇🏽
+🔹 **FUN FACT:** Sometimes I go by the pseudonym *`Expo`*<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔹 I had an old gaming username: *`ExplodingDiaper`* 💩 To avoid typing it out every time, my good friend started calling me 'Expo' for short. The rest is history.<br>
+ 👇🏽 Looking to collaborate? I'm on LinkedIn, X & Discord 👇🏽
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dominicksidari/)
