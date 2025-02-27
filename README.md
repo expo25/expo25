@@ -16,9 +16,17 @@
 🔹 👇🏽 Looking to collaborate? You can reach me below 👇🏽
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dominicksidari/)<br>
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/dom_sidari25)
-[![Discord Profile](https://img.shields.io/badge/Chat-%237289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/909535714767671346/)
+<p align="center">
+  <a href="https://linkedin.com/in/dominicksidari/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/dom_sidari25">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X">
+  </a>
+  <a href="https://discordapp.com/users/909535714767671346/">
+    <img src="https://img.shields.io/badge/Chat-%237289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Profile">
+  </a>
+</p>
 
 ## 💻 Tech Stack:
 ### 🧪 Test Automation
