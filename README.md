@@ -1,10 +1,12 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=What's Up!!+👋;My+name+is+DOMINICK!🙂;But+you+can+call+me+Expo!&center=true&size=25">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=What's Up!!+✌🏽;My+name+is+DOMINICK!🙂;But+you+can+call+me+Expo!&center=true&size=25">
   </a>
 </h1>
 
-### ✨ About Me
+![](https://img.shields.io/badge/Profile%20Views-28.5k-blue?logo=linkedin)
+
+## ✨ About Me
 🔹 I have been working professionally as a Software Developer for about 5 years. <br>
 🔹 When I'm bored, I'll work on my Spotify Clone App, Discord Bots & a new blog that I soon plan to host on my personal website.<br>
 🔹 I am passionate about AI, Test Automation, Data Science, Web Development, Finance & Blockchain. <br>
