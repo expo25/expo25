@@ -55,4 +55,4 @@
 <a href="https://github.com/expo25"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=expo25&layout=compact&theme=yeblu&hide_border=true&&langs_count=8" /></a>
 
 ## 😓 GitHub Stats:
-<a href="https://github.com/expo25"><img align="center" src="https://github-readme-stats.vercel.app/api?username=expo25&show_icons=true&include_all_commits=true&theme=nightowl&hide_border=true" alt="Expo25's github status" ><a>
+<a href="https://github.com/expo25"><img align="center" src="https://github-readme-stats.vercel.app/api?username=expo25&show_icons=true&include_all_commits=true&theme=nightowl&hide_border=true" alt="Expo25's github status" /></a>
