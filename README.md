@@ -50,7 +50,5 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=expo25&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=expo25&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=expo25&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 😓 GitHub Stats:
+<a href="https://github.com/expo25"><img align="center" src="https://github-readme-stats.vercel.app/api?username=expo25&show_icons=true&include_all_commits=true&theme=nightowl&hide_border=true" alt="Expo25's github status" ><a>
