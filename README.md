@@ -16,7 +16,7 @@
 🔹 👇🏽 Looking to collaborate? You can reach me below 👇🏽
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dominicksidari/)<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dominicksidari/)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/dom_sidari25)
 [![Discord Profile](https://img.shields.io/badge/Chat-%237289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/909535714767671346/)
 
