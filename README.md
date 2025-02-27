@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=What's Up!!+✌🏽;My+name+is+DOMINICK!🙂;But+you+can+call+me+Expo!&center=true&size=25">
+    <img src="https://readme-typing-svg.demolab.com/?lines=What's+Up!✌🏽;My+name+is+Dominick!🙂;But+you+can+call+call+me+Expo🔹!;&font=Fira%20Code&center=true&width=425&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
   </a>
 </h1>
 
@@ -16,8 +16,9 @@
 🔹 👇🏽 Looking to collaborate? You can reach me below 👇🏽
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dominicksidari/)<br>
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/dom_sidari25) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dominicksidari/)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/dom_sidari25)
+[![Discord Profile](https://img.shields.io/badge/Chat-%237289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/909535714767671346/)
 
 ## 💻 Tech Stack:
 ### 🧪 Test Automation
@@ -46,7 +47,7 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
