@@ -22,15 +22,8 @@
 [![Discord Profile](https://img.shields.io/badge/Chat-%237289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/909535714767671346/)
 
 ## 💻 Tech Stack:
-### 🧪 Test Automation
-![SpecFlow](https://img.shields.io/badge/SpecFlow-%2341AA58.svg?style=for-the-badge&logo=cucumber&logoColor=white)
-![RestSharp](https://img.shields.io/badge/RestSharp-%2368217A.svg?style=for-the-badge&logo=rest&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-%232EAD33.svg?style=for-the-badge&logo=playwright&logoColor=white)
-![JMeter](https://img.shields.io/badge/JMeter-%23D9252E.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-%2317202C.svg?style=for-the-badge&logo=cypress&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-![WebdirverIO](https://img.shields.io/badge/WebdriverIO-%23EA5906.svg?style=for-the-badge&logo=webdriverio&logoColor=white)
+### Test Automation
+![tech_skills_automation](https://skillicons.dev/icons?i=selenium,cypress,postman,gherkin)
 ### Frontend
 ![tech_skills](https://skillicons.dev/icons?i=html,css,windicss,js,ts,md,react,redux,nextjs,vite,vscode&theme=dark)
 ### Backend
