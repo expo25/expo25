@@ -35,6 +35,8 @@
 ![tech_skills](https://skillicons.dev/icons?i=html,css,windicss,js,ts,md,react,redux,nextjs,vite,vscode&theme=dark)
 ### Backend
 ![tech_skills_backend](https://skillicons.dev/icons?i=cs,dotnet,azure,heroku,nodejs,express,maven,mongodb,powershell,tensorflow,terraform)
+### Operating Systems
+![tech_skills_os](https://skillicons.dev/icons?i=windows,linux,ubuntu)
 
 ## 🔥 Top Languages
 <a href="https://github.com/expo25"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=expo25&layout=compact&theme=yeblu&hide_border=true&&langs_count=8" /></a>
