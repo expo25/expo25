@@ -27,7 +27,9 @@
 ### Backend
 ![tech_skills_backend](https://skillicons.dev/icons?i=cs,dotnet,azure,heroku,nodejs,express,maven,mongodb,powershell,tensorflow,terraform)
 ### Operating Systems
-![tech_skills_os](https://skillicons.dev/icons?i=windows,linux,ubuntu)
+![tech_skills_automation](https://skillicons.dev/icons?i=selenium,cypress,postman,gherkin)
+### Version Control
+![tech_skills_version](https://skillicons.dev/icons?i=git,github,gitlab,bitbucket)
 
 ## 🔥 Top Languages
 <a href="https://github.com/expo25"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=expo25&layout=compact&theme=yeblu&hide_border=true&&langs_count=8" /></a>
