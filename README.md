@@ -17,7 +17,9 @@
  👇🏽 Looking to collaborate? I'm on LinkedIn, X & Discord 👇🏽
 
 ## 🌐 Socials
-![socials](https://skillicons.dev/icons?i=linkedin,twitter,discord)
+[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/dominicksidari/)
+[![x](https://skillicons.dev/icons?i=twitter)](https://twitter.com/dom_sidari25)
+[![discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/909535714767671346/)
 
 ## 💻 Tech Stack:
 ### Test Automation
