@@ -23,7 +23,7 @@
 ### Test Automation
 ![tech_skills_automation](https://skillicons.dev/icons?i=selenium,cypress,postman,gherkin)
 ### Frontend
-![tech_skills](https://skillicons.dev/icons?i=html,css,windicss,js,ts,md,react,redux,nextjs,vite,vscode&theme=dark)
+![tech_skills](https://skillicons.dev/icons?i=html,css,windicss,js,ts,md,react,redux,nextjs,vite,discordjs,vscode&theme=dark)
 ### Backend
 ![tech_skills_backend](https://skillicons.dev/icons?i=cs,dotnet,azure,heroku,nodejs,express,maven,mongodb,powershell,tensorflow,terraform)
 ### Operating Systems
