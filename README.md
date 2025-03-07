@@ -17,41 +17,21 @@
  👇🏽 Looking to collaborate? I'm on LinkedIn, X & Discord 👇🏽
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dominicksidari/)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/dom_sidari25)
-[![Discord Profile](https://img.shields.io/badge/Chat-%237289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/909535714767671346/)
+[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/dominicksidari/)
+[![x](https://skillicons.dev/icons?i=twitter)](https://twitter.com/dom_sidari25)
+[![discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/909535714767671346/)
 
 ## 💻 Tech Stack:
-### 🧪 Test Automation
-![SpecFlow](https://img.shields.io/badge/SpecFlow-%2341AA58.svg?style=for-the-badge&logo=cucumber&logoColor=white)
-![RestSharp](https://img.shields.io/badge/RestSharp-%2368217A.svg?style=for-the-badge&logo=rest&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-%232EAD33.svg?style=for-the-badge&logo=playwright&logoColor=white)
-![JMeter](https://img.shields.io/badge/JMeter-%23D9252E.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-%2317202C.svg?style=for-the-badge&logo=cypress&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-![WebdirverIO](https://img.shields.io/badge/WebdriverIO-%23EA5906.svg?style=for-the-badge&logo=webdriverio&logoColor=white)
-### ⚡ Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-### 📅 Backend | Hosting
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
+### Test Automation
+![tech_skills_automation](https://skillicons.dev/icons?i=selenium,cypress,postman,gherkin)
+### Frontend
+![tech_skills](https://skillicons.dev/icons?i=html,css,windicss,js,ts,md,react,redux,nextjs,vite,discordjs,vscode&theme=dark)
+### Backend
+![tech_skills_backend](https://skillicons.dev/icons?i=cs,dotnet,azure,heroku,nodejs,express,maven,mongodb,powershell,tensorflow,terraform)
+### Operating Systems
+![tech_skills_os](https://skillicons.dev/icons?i=windows,linux,ubuntu)
+### Version Control
+![tech_skills_version](https://skillicons.dev/icons?i=git,github,gitlab,bitbucket)
 
 ## 🔥 Top Languages
 <a href="https://github.com/expo25"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=expo25&layout=compact&theme=yeblu&hide_border=true&&langs_count=8" /></a>
