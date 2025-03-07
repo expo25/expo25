@@ -29,7 +29,7 @@
 ### Backend
 ![tech_skills_backend](https://skillicons.dev/icons?i=cs,dotnet,azure,heroku,nodejs,express,maven,mongodb,powershell,tensorflow,terraform)
 ### Operating Systems
-![tech_skills_automation](https://skillicons.dev/icons?i=selenium,cypress,postman,gherkin)
+![tech_skills_os](https://skillicons.dev/icons?i=windows,linux,ubuntu)
 ### Version Control
 ![tech_skills_version](https://skillicons.dev/icons?i=git,github,gitlab,bitbucket)
 
