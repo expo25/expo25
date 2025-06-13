@@ -1,19 +1,17 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=What's+Up!✌🏽;My+name+is+Dominick!🙂;But+you+can+call+me+Expo🔹;&font=Fira%20Code&center=true&width=425&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
-  </a>
-</h1>
+<div align="left">
 
-![](https://img.shields.io/badge/Profile%20Views-28.5k-blue?logo=linkedin)
+![typing svg](https://readme-typing-svg.demolab.com?font=Georgia&size=30&pause=1000&color=1c5cfc&width=435&lines=Hello!+My+name+is+Dominick🙂;Welcome+to+my+GitHub!💻)
+
+</div>
+
+![](https://img.shields.io/badge/Profile%20Views-37.5k-blue?logo=linkedin)
 
 ## ✨ About Me
 🔹 I have been working professionally as a Software Developer for about 5 years. <br>
-🔹 When I'm bored, I'll work on my Spotify Clone App, Discord Bots & a new blog that I soon plan to host on my personal website.<br>
+🔹 When I'm bored, I'll work on my Spotify Clone App, Discord bot web dashboards & a new blog that I soon plan to host on my personal website.<br>
 🔹 I am passionate about AI, Test Automation, Data Science, Web Development, Finance & Blockchain. <br>
 🔹 I am currently helping companies build out different test automation frameworks using Cypress & Playwright.<br>
-🔹 I am also currently experimenting with TypeScript.<br>
-🔹 **FUN FACT:** Sometimes I go by the pseudonym *`Expo`*<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔹 I had an old gaming username: *`ExplodingDiaper`* 💩 To avoid typing it out every time, my good friend started calling me 'Expo' for short. The rest is history.<br>
+🔹 I am also experimenting with TypeScript.<br>
  👇🏽 Looking to collaborate? I'm on LinkedIn, X & Discord 👇🏽
 
 ## 🌐 Socials
