@@ -1,10 +1,10 @@
 <div align="left">
 
-![typing svg](https://readme-typing-svg.demolab.com?font=Georgia&size=30&pause=1000&color=1c5cfc&width=435&lines=What's+Up!✌🏽;My+name's+Dominick🙂;Welcome+to+my+GitHub!💻)
+![typing svg](https://readme-typing-svg.demolab.com?font=Georgia&size=30&pause=1000&color=1c5cfc&width=435&lines=Hello!+My+name+is+Dominick🙂;Welcome+to+my+GitHub!💻)
 
 </div>
 
-![](https://img.shields.io/badge/Profile%20Views-28.5k-blue?logo=linkedin)
+![](https://img.shields.io/badge/Profile%20Views-37.5k-blue?logo=linkedin)
 
 ## ✨ About Me
 🔹 I have been working professionally as a Software Developer for about 5 years. <br>
