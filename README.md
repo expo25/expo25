@@ -1,8 +1,8 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=What's+Up!✌🏽;My+name+is+Dominick!🙂;But+you+can+call+me+Expo🔹;&font=Fira%20Code&center=true&width=425&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
-  </a>
-</h1>
+<div align="left">
+
+![typing svg](https://readme-typing-svg.demolab.com?font=Georgia&size=30&pause=1000&color=1c5cfc&width=435&lines=What's+Up!✌🏽;My+name's+Dominick🙂;Welcome+to+my+GitHub!💻)
+
+</div>
 
 ![](https://img.shields.io/badge/Profile%20Views-28.5k-blue?logo=linkedin)
 
