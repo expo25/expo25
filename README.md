@@ -8,12 +8,10 @@
 
 ## ✨ About Me
 🔹 I have been working professionally as a Software Developer for about 5 years. <br>
-🔹 When I'm bored, I'll work on my Spotify Clone App, Discord Bots & a new blog that I soon plan to host on my personal website.<br>
+🔹 When I'm bored, I'll work on my Spotify Clone App, Discord bot web dashboards & a new blog that I soon plan to host on my personal website.<br>
 🔹 I am passionate about AI, Test Automation, Data Science, Web Development, Finance & Blockchain. <br>
 🔹 I am currently helping companies build out different test automation frameworks using Cypress & Playwright.<br>
-🔹 I am also currently experimenting with TypeScript.<br>
-🔹 **FUN FACT:** Sometimes I go by the pseudonym *`Expo`*<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔹 I had an old gaming username: *`ExplodingDiaper`* 💩 To avoid typing it out every time, my good friend started calling me 'Expo' for short. The rest is history.<br>
+🔹 I am also experimenting with TypeScript.<br>
  👇🏽 Looking to collaborate? I'm on LinkedIn, X & Discord 👇🏽
 
 ## 🌐 Socials
