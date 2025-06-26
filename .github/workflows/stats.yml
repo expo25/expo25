@@ -4,7 +4,7 @@ on:
     - cron: "0 0 * * *" # Daily
   workflow_dispatch:
   push:
-    branches: [ main ]
+    branches: [ main, feature/update-readme-06-24 ]
 
 jobs:
   update-readme:
