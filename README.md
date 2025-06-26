@@ -31,10 +31,8 @@
 ### Version Control
 ![tech_skills_version](https://skillicons.dev/icons?i=git,github,gitlab,bitbucket)
 
-## 🔥 Top Languages
-<div align="left">
-  <img src="https://github.com/expo25/expo25/blob/main/stats/top-languages.svg" alt="Top Languages" />
-</div>
-
 ## ⚡ GitHub Stats:
 <img src="https://github.com/expo25/expo25/blob/main/stats/github-stats.svg" alt="GitHub Stats" />
+
+## 🔥 Top Languages
+<img src="https://github.com/expo25/expo25/blob/main/stats/top-languages.svg" alt="Top Languages" />
