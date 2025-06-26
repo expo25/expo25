@@ -36,3 +36,6 @@
 
 ## 🔥 Top Languages
 <img src="https://github.com/expo25/expo25/blob/main/stats/top-languages.svg" alt="Top Languages" />
+
+## 👇🏽 Contribution Streak
+<img src="https://github.com/expo25/expo25/blob/main/stats/github-streak.svg" alt="Contribution Streak" />
