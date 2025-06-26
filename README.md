@@ -34,5 +34,7 @@
 ## 🔥 Top Languages
 <a href="https://github.com/expo25"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=expo25&layout=compact&theme=yeblu&hide_border=true&&langs_count=8" /></a>
 
-## 😓 GitHub Stats:
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/expo25?cardType=level-alternate&theme=github-dark&preferLogin=false&Ring=0D3FDD&Text=28DD0A&Border=28DD0A&Title=0D3FDD)](https://git.io/awesome-stats-card)
+## ⚡ GitHub Stats:
+<div align="center">
+  <img src="https://github.com/expo25/expo25/blob/main/stats/github-stats.svg" alt="GitHub Stats" />
+</div>
