@@ -1,60 +1,82 @@
-name: Update GitHub Stats
+name: Update GitHub Profile Stats
 on:
   schedule:
-    - cron: "0 0 * * *" # Daily
+    - cron: '0 0 * * *'  # Daily
   workflow_dispatch:
-  push:
-    branches: [ main, feature/update-readme-06-24 ]
 
 jobs:
-  update-readme:
+  update-stats:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
-        
-      - name: Generate GitHub Stats
-        uses: anuraghazra/github-readme-stats@master
-        with:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
-
-      - name: Generate Top Language Stats
-        uses: anuraghazra/github-readme-stats@master
         with:
           token: ${{ secrets.GH_TOKEN }}
-          username: expo25
-          layout: compact
-          theme: nightowl
-          hide_border: true
-          langs_count: 6
-
-      - name: Generate Activity Graph
-        uses: ashutosh00710/github-readme-activity-graph
+          
+      - name: Generate GitHub Metrics
+        uses: lowlighter/metrics@latest
         with:
-          github_token: ${{ secrets.GH_TOKEN }}
-          username: expo25
-          theme: nightowl
-          hide_border: true
-          area: true
-
-      - name: Update README
+          token: ${{ secrets.GH_TOKEN }}
+          user: expo25
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: America/Phoenix
+          config_output: svg
+          filename: metrics.svg
+          
+          # Language statistics
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_categories: markup, programming
+          plugin_languages_colors: github
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          plugin_languages_threshold: 0%
+          
+          # Activity plugin
+          plugin_activity: yes
+          plugin_activity_days: 14
+          plugin_activity_filter: all
+          plugin_activity_limit: 5
+          plugin_activity_visibility: all
+          
+          # Contribution calendar
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          
+      # Download additional stats images from services
+      - name: Download Additional Stats
         run: |
-          # Create stats directory if it doesn't exist
           mkdir -p stats
           
-          # Move generated images to stats folder (if they exist)
-          find . -name "*.svg" -not -path "./stats/*" -exec mv {} stats/ \; 2>/dev/null || true
-          find . -name "*.png" -not -path "./stats/*" -exec mv {} stats/ \; 2>/dev/null || true
-
+          echo "Downloading Expo's GitHub Stats Card..."
+          curl -f -o stats/github-stats.svg "https://awesome-github-stats.azurewebsites.net/user-stats/expo25?cardType=level-alternate&theme=github-dark&preferLogin=false&Ring=0D3FDD&Text=28DD0A&Border=28DD0A&Title=0D3FDD" || echo "Failed to download GitHub stats"
+          
+          echo "Downloading Expo's Streak Stats..."
+          curl -f -o stats/github-streak.svg "https://github-readme-streak-stats.herokuapp.com/?user=expo25&theme=nightowl&hide_border=true&ring=0D3FDD&fire=28DD0A&currStreakLabel=28DD0A" || echo "Failed to download streak stats"
+          
+          echo "Downloading Expo's Top Languages..."
+          curl -f -o stats/top-languages.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=expo25&layout=compact&theme=nightowl&hide_border=true&langs_count=8&title_color=0D3FDD&text_color=28DD0A&border_color=28DD0A" || echo "Failed to download language stats"
+          
+          echo "Downloading Expo's Activity Graph..."
+          curl -f -o stats/activity-graph.svg "https://github-readme-activity-graph.vercel.app/graph?username=expo25&theme=nightowl&hide_border=true&area=true&color=28DD0A&line=0D3FDD&point=28DD0A" || echo "Failed to download activity graph"
+          
+          if [ -f "metrics.svg" ]; then
+            mv metrics.svg stats/
+          fi
+          
+          echo "Downloaded files:"
+          ls -la stats/
+          
       - name: Commit and push changes
         run: |
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           
-          # Add all changes
-          git add .
+          git add stats/
           
-          # Check if there are changes to commit
           if ! git diff --staged --quiet; then
             git commit -m "🚀 Update GitHub stats [skip ci]"
             git push
