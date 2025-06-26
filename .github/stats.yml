@@ -3,3 +3,15 @@ on:
   schedule:
     - cron: "0 0 * * *" # Daily
   workflow_dispatch:
+
+  jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        
+      - name: Generate GitHub Stats
+        uses: anuraghazra/github-readme-stats@master
+        with:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
