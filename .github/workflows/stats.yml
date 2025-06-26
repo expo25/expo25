@@ -36,3 +36,12 @@ jobs:
           theme: nightowl
           hide_border: true
           area: true
+
+      - name: Update README
+        run: |
+          # Create stats directory if it doesn't exist
+          mkdir -p stats
+          
+          # Move generated images to stats folder (if they exist)
+          find . -name "*.svg" -not -path "./stats/*" -exec mv {} stats/ \; 2>/dev/null || true
+          find . -name "*.png" -not -path "./stats/*" -exec mv {} stats/ \; 2>/dev/null || true
