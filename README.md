@@ -31,7 +31,11 @@
 ### Version Control
 ![tech_skills_version](https://skillicons.dev/icons?i=git,github,gitlab,bitbucket)
 
-## ⚡ GitHub Stats:
+## <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="35" height="35" style="vertical-align: middle;"/> ➜ GITHUB STATISTICS
+And now for the moment you've all been scrolling for...👇🏽
+<div align="left">
+
+## ⚡ Profile Stats:
 <img src="https://github.com/expo25/expo25/blob/main/stats/github-stats.svg" alt="GitHub Stats" />
 
 ## 📈 Activity Graph
@@ -45,3 +49,4 @@
 
 ## 💹 Comprehensive Profile Metrics
 <img src="https://github.com/expo25/expo25/blob/main/stats/metrics.svg" alt="GitHub Metrics" />
+</div>
