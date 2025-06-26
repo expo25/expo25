@@ -29,7 +29,7 @@ jobs:
           langs_count: 6
 
       - name: Generate Activity Graph
-        uses: ashutosh00710/github-readme-activity-graph@v2
+        uses: ashutosh00710/github-readme-activity-graph
         with:
           github_token: ${{ secrets.GH_TOKEN }}
           username: expo25
