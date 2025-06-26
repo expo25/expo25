@@ -77,32 +77,33 @@ jobs:
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           
-          # Fetch latest changes and rebase
-          git fetch origin
-          git rebase origin/${{ github.ref_name }} || {
-            echo "Rebase failed, trying merge strategy"
-            git rebase --abort
-            git pull origin ${{ github.ref_name }} --allow-unrelated-histories
-          }
+          echo "Git status before processing:"
+          git status
           
-          # Add all changes
-          git add stats/
+          git add -A
           
-          # Check if there are changes to commit
           if ! git diff --staged --quiet; then
-            git commit -m "🚀 Update GitHub stats [skip ci]"
+            # Fetch latest changes from remote
+            git fetch origin
             
-            # Push with retry logic
-            for i in {1..3}; do
-              if git push origin HEAD:${{ github.ref_name }}; then
-                echo "Successfully pushed on attempt $i"
-                break
-              else
-                echo "Push failed on attempt $i, retrying..."
-                git pull origin ${{ github.ref_name }} --rebase
-                sleep 2
-              fi
-            done
+            # Pull latest changes with merge strategy (avoiding rebase issues)
+            git pull origin ${{ github.ref_name }} --no-rebase || {
+              echo "Pull failed, but continuing with local changes"
+            }
+            
+            # Commit
+            git commit -m "🚀 Update GitHub stats [skip ci]" || {
+              echo "Commit failed, possibly no changes to commit"
+              exit 0
+            }
+            
+            # Push
+            git push origin HEAD:${{ github.ref_name }} --force-with-lease || {
+              echo "Push failed, trying simple push"
+              git push origin HEAD:${{ github.ref_name }}
+            }
+            
+            echo "Successfully updated GitHub stats!"
           else
             echo "No changes to commit"
           fi
