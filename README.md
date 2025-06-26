@@ -35,6 +35,10 @@
 And now for the moment you've all been scrolling for...👇🏽
 <div align="left">
 
+## 💹 Comprehensive Profile Metrics
+<img src="https://github.com/expo25/expo25/blob/main/stats/metrics.svg" alt="GitHub Metrics" />
+</div>
+
 ## ⚡ Profile Stats:
 <img src="https://github.com/expo25/expo25/blob/main/stats/github-stats.svg" alt="GitHub Stats" />
 
@@ -46,7 +50,3 @@ And now for the moment you've all been scrolling for...👇🏽
 
 ## 👇🏽 Contribution Streak
 <img src="https://github.com/expo25/expo25/blob/main/stats/github-streak.svg" alt="Contribution Streak" />
-
-## 💹 Comprehensive Profile Metrics
-<img src="https://github.com/expo25/expo25/blob/main/stats/metrics.svg" alt="GitHub Metrics" />
-</div>
