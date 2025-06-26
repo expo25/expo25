@@ -31,7 +31,7 @@
 ### Version Control
 ![tech_skills_version](https://skillicons.dev/icons?i=git,github,gitlab,bitbucket)
 
-## <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="35" height="35" style="vertical-align: middle;"/> ➜ GITHUB STATISTICS
+## ➜ GITHUB STATISTICS <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="35" height="35" style="vertical-align: middle;"/>
 And now for the moment you've all been scrolling for...👇🏽
 <div align="left">
 
