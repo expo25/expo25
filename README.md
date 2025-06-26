@@ -43,5 +43,5 @@
 ## 👇🏽 Contribution Streak
 <img src="https://github.com/expo25/expo25/blob/main/stats/github-streak.svg" alt="Contribution Streak" />
 
-## Comprehensive Profile Metrics
+## 💹 Comprehensive Profile Metrics
 <img src="https://github.com/expo25/expo25/blob/main/stats/metrics.svg" alt="GitHub Metrics" />
