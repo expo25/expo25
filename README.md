@@ -31,12 +31,22 @@
 ### Version Control
 ![tech_skills_version](https://skillicons.dev/icons?i=git,github,gitlab,bitbucket)
 
-## 🔥 Top Languages
+## ➜ GITHUB STATISTICS <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="30" height="30" style="vertical-align: middle;"/>
+And now for the moment you've all been scrolling for...👇🏽
 <div align="left">
-  <img src="https://github.com/expo25/expo25/blob/main/stats/top-languages.svg" alt="Top Languages" />
+
+### 💹 Comprehensive Profile Metrics
+<img src="https://github.com/expo25/expo25/blob/main/stats/metrics.svg" alt="GitHub Metrics" />
 </div>
 
-## ⚡ GitHub Stats:
-<div align="left">
-  <img src="https://github.com/expo25/expo25/blob/main/stats/github-stats.svg" alt="GitHub Stats" />
-</div>
+### ⚡ Profile Stats:
+<img src="https://github.com/expo25/expo25/blob/main/stats/github-stats.svg" alt="GitHub Stats" />
+
+### 📈 Activity Graph
+<img src="https://github.com/expo25/expo25/blob/main/stats/activity-graph.svg" alt="Activity Graph" />
+
+### 🔥 Top Languages
+<img src="https://github.com/expo25/expo25/blob/main/stats/top-languages.svg" alt="Top Languages" />
+
+### 👇🏽 Contribution Streak
+<img src="https://github.com/expo25/expo25/blob/main/stats/github-streak.svg" alt="Contribution Streak" />
