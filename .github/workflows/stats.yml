@@ -92,7 +92,7 @@ jobs:
             }
             
             # Commit
-            git commit -m "🚀 Update GitHub stats [skip ci]" || {
+            git commit -m "update: 🔨 Update GitHub stats [skip ci]" || {
               echo "Commit failed, possibly no changes to commit"
               exit 0
             }
@@ -103,7 +103,7 @@ jobs:
               git push origin HEAD:${{ github.ref_name }}
             }
             
-            echo "Successfully updated GitHub stats!"
+            echo "✅ Successfully updated GitHub stats!"
           else
             echo "No changes to commit"
           fi
