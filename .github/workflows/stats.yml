@@ -17,3 +17,13 @@ jobs:
         uses: anuraghazra/github-readme-stats@master
         with:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+
+      - name: Generate Top Language Stats
+        uses: anuraghazra/github-readme-stats@master
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          username: expo25
+          layout: compact
+          theme: nightowl
+          hide_border: true
+          langs_count: 6
