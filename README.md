@@ -34,6 +34,9 @@
 ## ⚡ GitHub Stats:
 <img src="https://github.com/expo25/expo25/blob/main/stats/github-stats.svg" alt="GitHub Stats" />
 
+## 📈 Activity Graph
+<img src="https://github.com/expo25/expo25/blob/main/stats/activity-graph.svg" alt="Activity Graph" />
+
 ## 🔥 Top Languages
 <img src="https://github.com/expo25/expo25/blob/main/stats/top-languages.svg" alt="Top Languages" />
 
