@@ -37,6 +37,4 @@
 </div>
 
 ## ⚡ GitHub Stats:
-<div align="left">
-  <img src="https://github.com/expo25/expo25/blob/main/stats/github-stats.svg" alt="GitHub Stats" />
-</div>
+<img src="https://github.com/expo25/expo25/blob/main/stats/github-stats.svg" alt="GitHub Stats" />
