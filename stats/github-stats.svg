@@ -52,7 +52,7 @@
             stroke-dasharray: 0,2000;
         }
         to {
-            stroke-dasharray: 136.85,2000;
+            stroke-dasharray: 136.92,2000;
         }
     }
 
@@ -142,7 +142,7 @@
         <g transform="translate(250, 100)">
             <rect x="0" y="0" width="175" rx="5" height="8" class="progressbar-opacity" />
             <rect x="0" y="0" width="0" rx="5" height="8" class="progressbar">
-                <animate attributeName="width" from="0" to="66.5245" begin="1s" dur="2s" fill="freeze"></animate>
+                <animate attributeName="width" from="0" to="66.556" begin="1s" dur="2s" fill="freeze"></animate>
             </rect>
         </g>
 
@@ -167,7 +167,7 @@
                     </svg>
 
                     <text class="stat bold" x="25" y="12.5">Total Commits:</text>
-                    <text class="stat" x="160" y="12.5" data-testid="commits">969</text>
+                    <text class="stat" x="160" y="12.5" data-testid="commits">978</text>
                 </g>
             </g>
             <g transform="translate(0, 54)">
