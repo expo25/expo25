@@ -1,7 +1,10 @@
-﻿<svg xmlns="http://www.w3.org/2000/svg" width="450" height="200" viewBox="0 0 450 200" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" width="450" height="200" viewBox="0 0 450 200" fill="none">
     <style>
+    
+    @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;500;600;700;800;900&display=swap');
+
     .header {
-        font-family: 'Roboto Slab',serif;
+        font-family: 'Roboto Slab', serif;
         font-size: 30px;
         font-weight: 700;
         line-height: .75;
@@ -10,7 +13,7 @@
     }
 
     .stat {
-        font: 800 14px 'Roboto Slab',serif;
+        font: 800 14px 'Roboto Slab', serif;
         fill: #28DD0A;
     }
 
@@ -120,7 +123,7 @@
 
     </style>
 
-    <rect data-testid="card-bg" x="0.5" y="0.5" rx="4.5" height="99%" stroke="#28DD0A" width="99%" fill="#1e2228" stroke-opacity="1" />
+    <rect data-testid="card-bg" x="0.5" y="0.5" rx="4" height="99%" stroke="#28DD0A" width="99%" fill="#1e2228" stroke-opacity="1" />
 
 
     <g data-testid="card-title" transform="translate(25, 35)">
