@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="450" height="200" viewBox="0 0 450 200" fill="none">
     <style>
     
-    @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;500;600;700;800;900&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;500;600;700;800;900&amp;display=swap');
 
     .header {
         font-family: 'Roboto Slab', serif;
@@ -55,7 +55,7 @@
             stroke-dasharray: 0,2000;
         }
         to {
-            stroke-dasharray: 136.97,2000;
+            stroke-dasharray: 162.84,2000;
         }
     }
 
@@ -145,7 +145,7 @@
         <g transform="translate(250, 100)">
             <rect x="0" y="0" width="175" rx="5" height="8" class="progressbar-opacity" />
             <rect x="0" y="0" width="0" rx="5" height="8" class="progressbar">
-                <animate attributeName="width" from="0" to="66.58224999999999" begin="1s" dur="2s" fill="freeze"></animate>
+                <animate attributeName="width" from="0" to="79.15775" begin="1s" dur="2s" fill="freeze"></animate>
             </rect>
         </g>
 
